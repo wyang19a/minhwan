@@ -1,8 +1,8 @@
 
 [submodule "gatsby"]
   path = gatsby
-  url = git://github.com/wyang19a/minhwan-gatsby.git/
+  url = https://github.com/wyang19a/minhwan-gatsby.git/
 
 [submodule "sanity"] 
   path = sanity
-  url = git://github.com/wyang19a/minhwan-sanity.git/
+  url = https://github.com/wyang19a/minhwan-sanity.git/
